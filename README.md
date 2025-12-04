@@ -1,4 +1,4 @@
-# Sex-Specific Transcriptomic Signatures in Major Depressive Disorder (MDD)
+# Blood Gene Expression Differences Between Women & Men With Major Depressive Disorder (MDD)​
 ### BIOL 5340 – Bioinformatics Graduate Project  
 **Author:** Trinitee Hayes  
 **Dataset:** GSE98793 (NCBI Gene Expression Omnibus)
