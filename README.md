@@ -90,7 +90,6 @@ AI tools (ChatGPT) were used to assist with:
 - Structuring portions of the README and presentation slides
 All code, results, interpretations, and conclusions were manually reviewed and verified before inclusion in this project.
 ## Acknowledgments
-## Acknowledgments
 - **Instructor:** Dr. Jeff Demuth  
 - **Graduate Teaching Assistants:** Adam Rosso and Zoë Müller  
 - **Dataset Provider:** NCBI Gene Expression Omnibus (GEO), Accession GSE98793  
