@@ -104,3 +104,9 @@ All code, results, interpretations, and conclusions were manually reviewed and v
 - **Tools & Libraries:** Python, pandas, numpy, scipy, scikit-learn, matplotlib, seaborn, GEOparse  
 - Appreciation to open-source developers who maintain the computational tools used in this project.
 ## References
+Leday GGR, Vertes PE, Richardson S, Greene JR, Regan T, Khan S, Henderson R, et al. Genome-wide gene expression in Major Depressive Disorder: A meta-analysis. GEO DataSets: GSE98793. 2018.​
+ Available from: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE98793​
+
+Labonté B, Engmann O, Purushothaman I, Menard C, Wang J, Tan C, Scarpa JR, et al.​
+ Sex-specific transcriptional signatures in human depression. Nat Med. 2017;23:1102–1111.​
+ Available from: https://www.nature.com/articles/nm.4386​
